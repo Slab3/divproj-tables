@@ -1,0 +1,1 @@
+#### A project in which you can create the required number of blocks by entering the required number of lines and columns in the input fields. Once created, when you click on a block, it is drawn in the opposite color.
